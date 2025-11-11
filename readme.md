@@ -1,10 +1,4 @@
-# test
+##### This is my readme.
 
-###### testing read me file
-
-First push is successful
-
-
-
-##### Now I am doing second commit
+Also this is my first commit file
 
